@@ -1,6 +1,10 @@
 # 💫 Hi 👋, I'm Sakib Hasan
-🔭 I’m currently working on: Many Project<br>🌱 I’m currently learning: Python<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: t.me/shakib2016<br>😄 Pronouns: Sakib Hasan<br>⚡ Fun fact: I Love Tech and Tech Love Me
-
+- 🔭 **I’m currently working on:** Many Projec
+- 🌱 **I’m currently learning:** Python
+- 💬 **Ask me about:** Collaboration, Tech Support
+- 📫 **How to reach me:** t.me/shakib2016
+- 😄 **Pronouns:** Sakib Hasan
+- ⚡ **Fun fact:** I Love Tech and Tech Love Me
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=Shakib047&theme=radical&no-frame=false&no-bg=true&margin-w=4)
