@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Hi 👋, I'm Sakib Hasan
 🔭 I’m currently working on: Many Project<br>🌱 I’m currently learning: Python<br>💬 Ask me about: Collaboration, Tech Support<br>📫 How to reach me: t.me/shakib2016<br>😄 Pronouns: Sakib Hasan<br>⚡ Fun fact: I Love Tech and Tech Love Me
 
 
