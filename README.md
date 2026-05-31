@@ -1,10 +1,10 @@
 # 💫 Hi 👋, I'm Sakib Hasan
-- 🔭 **I’m currently working on:** Many Projec
-- 🌱 **I’m currently learning:** Python
-- 💬 **Ask me about:** Collaboration, Tech Support
-- 📫 **How to reach me:** t.me/shakib2016
-- 😄 **Pronouns:** Sakib Hasan
-- ⚡ **Fun fact:** I Love Tech and Tech Love Me
+- 🔭 **I’m currently working on:** **Many Projec**
+- 🌱 **I’m currently learning:** **Python**
+- 💬 **Ask me about:** **Collaboration, Tech Support**
+- 📫 **How to reach me:** **t.me/shakib2016**
+- 😄 **Pronouns:** **Sakib Hasan**
+- ⚡ **Fun fact:** **I Love Tech and Tech Love Me**
   
 
 ## 🏆 GitHub Trophies
